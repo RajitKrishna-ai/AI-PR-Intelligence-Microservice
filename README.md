@@ -6,10 +6,9 @@ It is built as a production-style FastAPI system with embeddings, sentiment anal
 
 ---
 
-## 🚀 What this system does
+## 🚀 What this system does is-
 
 Once data is ingested, the system automatically:
-
 - Classifies content into topics (product, funding, partnership, crisis, thought leadership)
 - Performs sentiment analysis (positive / neutral / negative)
 - Generates semantic embeddings for intelligent search
@@ -28,7 +27,7 @@ The system is designed as modular microservices:
 - **NLP Layer** → sentiment, topic detection, summarization
 - **Vector Layer** → embeddings + FAISS similarity search
 - **Database Layer** → SQLite persistence
-- **Integration Layer** → Slack alerts + Web3 detection
+- **Our Integration Layer** → Slack alerts + Web3 detection
 
 ---
 
@@ -51,5 +50,5 @@ The system is designed as modular microservices:
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/ai-pr-intelligence.git
+git clone https://github.com/Rajitkrishna-ai>/ai-pr-intelligence.git
 cd ai-pr-intelligence
