@@ -1,0 +1,21 @@
+# virtual environments
+venv/
+env/
+development/
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# large ML libs
+site-packages/
+torch/
+tensorflow/
+
+# data
+data/
+*.db
+
+# environment variables
+.env
